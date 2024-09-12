@@ -1,0 +1,20 @@
+* {
+    background: rgb(255, 182, 182);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(48, 48, 48);
+}
+h1, p {
+    text-align: center;
+}
+
+p {
+    font-style: italic;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 25px;
+    width: 300px;
+    height: auto;
+}
