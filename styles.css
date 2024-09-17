@@ -3,7 +3,7 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(48, 48, 48);
 }
-h1, p {
+h1, p, h2 {
     text-align: center;
 }
 
@@ -17,4 +17,13 @@ img {
     border-radius: 25px;
     width: 300px;
     height: auto;
+}
+ul {
+    width: 500px;
+    margin: auto;
+}
+
+ol {
+    width: 500px;
+    margin: auto;
 }
